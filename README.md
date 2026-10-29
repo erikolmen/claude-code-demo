@@ -7,3 +7,7 @@ Here is a list:
   + Item 1
   + Item 2
   + Item 3
+
+## About
+
+This section was added on a feature branch.
