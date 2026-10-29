@@ -11,3 +11,5 @@ Here is a list:
 ## About
 
 This section was added on a feature branch.
+
+Thanks for visiting!
